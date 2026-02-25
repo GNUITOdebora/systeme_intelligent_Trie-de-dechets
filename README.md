@@ -159,9 +159,3 @@ streamlit run main.py
 
 ---
 
-## 👥 Équipe
-
-| Nom | Filière |
-|-----|---------|
-| Moheddine BEN ABDALLAH | I3-FSS |
-| Débora GNUITO | I3-FSS |
